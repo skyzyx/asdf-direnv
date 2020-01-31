@@ -1,6 +1,6 @@
 # asdf-direnv
 
-[Build Status]
+[![Build Status](https://travis-ci.org/skyzyx/asdf-direnv.svg?branch=master)](https://travis-ci.org/skyzyx/asdf-direnv)
 
 [`direnv`](https://github.com/direnv/direnv) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
